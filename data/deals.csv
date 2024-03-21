@@ -1,0 +1,7 @@
+DealId,Company,Peril,Location
+1,ClientA,Earthquake,USA
+2,ClientA,Hailstone,Canada
+3,ClientB,Hurricane,Philippines
+4,ClientB,Earthquake,New Zealand
+5,ClientC,Hurricane,USA
+6,ClientD,Tornado,USA
