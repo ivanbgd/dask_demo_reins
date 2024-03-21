@@ -1,7 +1,5 @@
 dask
 distributed
-mypy
 numexpr
 numpy
 pandas
-pylint
